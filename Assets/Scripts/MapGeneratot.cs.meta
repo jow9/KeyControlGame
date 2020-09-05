@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fde4f18ba679f8f4481ca712210ab4b4
+timeCreated: 1509768548
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wall_prefab: {fileID: 1093501301979466, guid: 24bf7cae6f53255418c1e420ef4cd6f3,
+      type: 2}
+  - door_A_prefab: {fileID: 1320871769824234, guid: 12491be970efd44418c86458cf281809,
+      type: 2}
+  - door_B_prefab: {fileID: 1320871769824234, guid: e32bcc2f40a2b594a81cbd34770ede0a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
